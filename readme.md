@@ -17,31 +17,31 @@ Exo 2 : Set up and Dockerize the FastAPI Application
 
 Création d'un dossier "app" et rangement du fichier .py dedans.
 
-Création d'un Dockerfile et rajout de uvicorn dans les requirements. image image
+Création d'un Dockerfile et rajout de uvicorn dans les requirements. 
+![image](https://github.com/user-attachments/assets/77426dfe-38b5-4837-86d1-52b325366ac8)
+
 
 Build de l'image avec mes différentes paramètres :
 
-image
+![image](https://github.com/user-attachments/assets/8f332460-4bae-494c-ba90-6a3dd9806871)
+
 
 lancement de mon conteneur via l'image créé précédemment :
 
-image
+![image](https://github.com/user-attachments/assets/90b8c185-dd25-4f04-ae36-fa8828f1a658)
 
-Conteneur Docker fonctionnel, FastAPI lancé :
-
-image
 
 Ping du conteneur :
 
-image
+![image](https://github.com/user-attachments/assets/8125b668-9be1-4028-8297-0b3a1038e414)
+
 
 Création du script test.sh
 
-image
 
-Mise en fonctionnement du script pendant que le conteneur FASTAPI est en route :
+![image](https://github.com/user-attachments/assets/f1fc7229-42b1-4923-822a-2563245f6352)
 
-image
+
 
 exercice 3 : Create a development Branch and Implement testing
 
